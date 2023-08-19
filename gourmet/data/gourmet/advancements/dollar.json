@@ -1,0 +1,18 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:gold_ingot"
+    },
+    "title": "Hollar Hollar",
+    "description": "Get your hands on a dollar",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "The dollar": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

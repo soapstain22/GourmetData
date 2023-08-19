@@ -1,0 +1,15 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:stone"
+		},
+		"title": "voter",
+		"description": "you voted for the server"
+	},
+	"criteria": {
+		"Vote": {
+			"trigger": "minecraft:impossible"
+		}
+	},
+	"sends_telemetry_event": true
+}

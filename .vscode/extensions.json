@@ -1,0 +1,13 @@
+{
+	"recommendations": [
+		"chencmd.mc-datapack-utility",
+		"spgoding.datapack-language-server",
+		"levertion.mcjson",
+		"stevertus.mcscript",
+		"misodee.worldgen-tools",
+		"misodee.vscode-nbtdoc",
+		"misodee.vscode-nbt",
+		"visualstudioexptteam.vscodeintellicode",
+		"visualstudioexptteam.intellicode-api-usage-examples"
+	]
+}

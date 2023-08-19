@@ -1,0 +1,18 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:iron_bars"
+    },
+    "title": "Play Nice",
+    "description": "go to jail",
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "jail": {
+      "trigger": "minecraft:impossible",
+      "conditions": {}
+    }
+  }
+}

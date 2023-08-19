@@ -1,0 +1,26 @@
+{
+	"type": "minecraft:command",
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:debug_stick"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:command_block"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:bedrock"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:barrier"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:oak_sign"
+    },
+    "title": "Lemonade Stand",
+    "description": "buy or sell something using signs",
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "AFK": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

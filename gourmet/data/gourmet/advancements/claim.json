@@ -1,0 +1,18 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:oak_fence"
+    },
+    "title": "Dibs",
+    "description": "Claim land for the first time",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "claim": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

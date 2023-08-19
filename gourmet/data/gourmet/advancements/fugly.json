@@ -1,0 +1,17 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:oak_sign"
+    },
+    "title": "Fugly",
+    "description": "be responsible for a server crash",
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "crashed": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

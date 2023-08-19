@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:brown_dye"
+    },
+    "title": "Constipated",
+    "description": "go afk for 4+ hours",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "gourmet:afk2",
+  "criteria": {
+    "AFK": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

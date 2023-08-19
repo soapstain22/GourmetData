@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:jigsaw",
+	"biomes": "#minecraft:is_overworld",
+	"step": "top_layer_modification",
+	"spawn_overrides": {},
+	"start_pool": "gourmet:roads",
+	"size": 3,
+	"start_height": {
+		"absolute": 0
+	},
+	"start_jigsaw_name": "road",
+	"max_distance_from_center": 80,
+	"use_expansion_hack": false
+}

@@ -1,0 +1,16 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:stone"
+		},
+		"title": "Webmaster",
+		"description": "Access the dynamic map",
+		"announce_to_chat": true
+	},
+	"criteria": {
+		"Access the Dynamic Map": {
+			"trigger": "minecraft:impossible"
+		}
+	},
+	"sends_telemetry_event": true
+}

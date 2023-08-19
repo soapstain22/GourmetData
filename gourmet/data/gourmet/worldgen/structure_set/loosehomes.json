@@ -1,0 +1,21 @@
+{
+	"structures": [
+		{
+			"structure": "gourmet:shops",
+			"weight": 1
+		},
+		{
+			"structure": "gourmet:roads",
+			"weight": 1
+		}
+	],
+	"placement": {
+		"type": "minecraft:random_spread",
+		"salt": 937834179,
+		"frequency_reduction_method": "legacy_type_3",
+		"frequency": 0.4,
+		"spread_type": "linear",
+		"spacing": 18,
+		"separation": 16
+	}
+}

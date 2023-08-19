@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:iron_door"
+    },
+    "title": "Come back with a warrant",
+    "description": "Kill someone on your claim",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "gourmet:claim",
+  "criteria": {
+    "Killed": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}
