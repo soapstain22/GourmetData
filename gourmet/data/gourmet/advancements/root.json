@@ -1,0 +1,15 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:stone"
+		},
+		"title": "gourmet server",
+		"description": "ugh..."
+	},
+	"criteria": {
+		"Vote": {
+			"trigger": "minecraft:impossible"
+		}
+	}
+	
+}

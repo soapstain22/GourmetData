@@ -11,8 +11,12 @@
   },
   "criteria": {
     "jail": {
-      "trigger": "minecraft:impossible",
-      "conditions": {}
+      "trigger": "minecraft:impossible"
     }
-  }
+  },
+  "requirements": [
+    [
+      "jail"
+    ]
+  ]
 }

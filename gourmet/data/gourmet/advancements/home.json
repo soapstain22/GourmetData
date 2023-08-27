@@ -10,5 +10,9 @@
     "announce_to_chat": true,
     "hidden": false
   },
-  "criteria": {}
+  "criteria": {
+    "home": {
+      "trigger": "minecraft:impossible"
+    }
+  }
 }

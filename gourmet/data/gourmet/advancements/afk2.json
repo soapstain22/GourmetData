@@ -10,7 +10,7 @@
     "announce_to_chat": true,
     "hidden": false
   },
-  "parent": "gourmet:afk2",
+  "parent": "gourmet:afk1",
   "criteria": {
     "AFK": {
       "trigger": "minecraft:impossible"
